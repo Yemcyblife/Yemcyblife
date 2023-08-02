@@ -5,13 +5,17 @@
   - [Created live SOC/Honeynet in Azure](https://github.com/Yemcyblife/YSOC-CLOUD)
   
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
+
+ -https://youtu.be/gM4IbklIw_g
+ 
+ -https://youtu.be/9q5VjrMl2OU
 
 
 
 
 
-<h2> 🤳 Connect with me:</h2>
+
 
 
 
