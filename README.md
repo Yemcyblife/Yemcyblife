@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Azure/ Cloud Projects
   
-  - [Created live SOC/Honeynet in Azure]
+  - [Created live SOC/Honeynet in Azure](https://github.com/Yemcyblife/YSOC-CLOUD)
   
 
 <h2>📺 Popular YouTube Videos</h2>
