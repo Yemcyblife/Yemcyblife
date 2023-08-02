@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yemi! Passionate part time Cybersecurity Student 
+<h1>Hi, I'm Yemi! Passionate Cybersecurity Student 
 
 <h2>👨‍💻 Azure/ Cloud Projects
   
