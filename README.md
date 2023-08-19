@@ -3,7 +3,13 @@
 <h2>👨‍💻 Azure/ Cloud Projects
   
   - [Created live SOC/Honeynet in Azure](https://github.com/Yemcyblife/YSOC-CLOUD)
-  
+
+
+   Vulnerability Management Projects
+
+   -[Nessus Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Vulnerability%20ManagementNessus%20%20Scanner%20(1).pdf)
+   
+    
 
 <h2>📺 YouTube Videos</h2>
 
