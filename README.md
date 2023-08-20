@@ -9,7 +9,7 @@
 
    - [Nessus Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Vulnerability%20ManagementNessus%20%20Scanner%20(1).pdf)
    
-    
+  - [Qualys Scanner}(
 
 <h2>📺 YouTube Videos</h2>
 
