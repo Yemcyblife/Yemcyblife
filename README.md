@@ -14,7 +14,7 @@
 
 Coursera Labs
 
-- [Microsoft Windows Defender Firewall](https://github.com/Yemcyblife/courseLab/blob/main/windows%20Defender%20Firewall.pdf)
+- [Microsoft Windows Defender Firewall]
 <h2>📺 YouTube Videos</h2>
 
  -https://youtu.be/gM4IbklIw_g
