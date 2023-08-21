@@ -4,6 +4,7 @@
   
   - [Created live SOC/Honeynet in Azure](https://github.com/Yemcyblife/YSOC-CLOUD)
 
+- [Created Microsoft Azure Active Directory Profile](https://github.com/Yemcyblife/YSOC-CLOUD/blob/main/Azure%20Active%20Directory.pdf)
 
    Vulnerability Management Projects:
 
