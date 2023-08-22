@@ -6,7 +6,7 @@
 
 - [Created Microsoft Azure Active Directory Profile](https://github.com/Yemcyblife/YSOC-CLOUD/blob/main/Azure%20Active%20Directory.pdf)
 
-- [Incident Response using SIEM in Sentinel]
+- [Incident Response using SIEM in Sentinel NIST 800-61](https://github.com/Yemcyblife/YSOC-CLOUD/blob/main/Incident%20Response%20Project%20in%20Sentinel.pdf)
 
   Vulnerability Management Projects:
 
