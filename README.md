@@ -6,7 +6,9 @@
 
 - [Created Microsoft Azure Active Directory Profile](https://github.com/Yemcyblife/YSOC-CLOUD/blob/main/Azure%20Active%20Directory.pdf)
 
-   Vulnerability Management Projects:
+- [Incident Response using SIEM in Sentinel]
+
+  Vulnerability Management Projects:
 
    - [Nessus Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Vulnerability%20ManagementNessus%20%20Scanner%20(1).pdf)
    
