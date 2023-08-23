@@ -22,6 +22,8 @@ Coursera Labs
 - [Analyze Network Traffic using TCPDump](https://github.com/Yemcyblife/courseLab/blob/main/TcpDump%20.pdf)
 <h2>📺 YouTube Videos</h2>
 
+- [Wireshark Packet Capture Lab](https://github.com/Yemcyblife/courseLab/blob/main/Wireshark%20Project.pdf)
+
  -https://youtu.be/gM4IbklIw_g
  
  -https://youtu.be/9q5VjrMl2OU
