@@ -10,7 +10,7 @@
 
   Vulnerability Management Projects:
 
-   - [Nessus Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Vulnerability%20ManagementNessus%20%20Scanner%20(1).pdf)
+   - [Nessus Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Nessus%20Project2.pdf)
    
   - [Qualys Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Qualys%20Scanner%20project.pdf)
 
