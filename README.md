@@ -12,7 +12,7 @@
 
    - [Nessus Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Nessus%20Project2.pdf)
    
-  - [Qualys Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Qualys%20Scanner%20project.pdf)
+  - [Qualys Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Qualys%20Project.pdf)
 
 
 Coursera Labs
