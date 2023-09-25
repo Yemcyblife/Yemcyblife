@@ -8,6 +8,10 @@
 
 - [Incident Response using SIEM in Sentinel NIST 800-61](https://github.com/Yemcyblife/YSOC-CLOUD/blob/main/Incident%20Response%20Project%20in%20Sentinel.pdf)
 
+  Splunk Lab
+
+- [Splunk Lab Configuration](https://github.com/Yemcyblife/Vulnerability/blob/main/Splunk%20Lab%20Config.pdf)
+
   Vulnerability Management Projects:
 
    - [Nessus Scanner](https://github.com/Yemcyblife/Vulnerability/blob/main/Nessus%20Project2.pdf)
