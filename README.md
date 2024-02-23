@@ -2,9 +2,9 @@
   
  
   
- Elastic SIEM Lab
+     Elastic SIEM Lab
 
- [Elastic Cloud in Kali Linux VM](https://github.com/Yemcyblife/Yemcyblife/blob/main/Elastic%20SIEM%20Lab.pdf)
+ - [Elastic Cloud in Kali Linux VM](https://github.com/Yemcyblife/Yemcyblife/blob/main/Elastic%20SIEM%20Lab.pdf)
   
 <h2>👨‍💻 Azure/ Cloud Projects
   
