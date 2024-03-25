@@ -5,6 +5,9 @@
    ELASTIC SIEM LAB
 
  - [Elastic Cloud in Kali Linux VM](https://github.com/Yemcyblife/Yemcyblife/blob/main/Elastic%20SIEM%20Lab.pdf)
+
+ - [SQL SERVER CONFIGURATION](https://github.com/Yemcyblife/Yemcyblife/blob/main/SQL%20Server%20Configuration.pdf)
+   
   
 <h2>👨‍💻 Azure/ Cloud Projects
   
