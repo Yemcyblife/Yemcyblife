@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yemi! Highly motivated Cybersecurity Professional 
+<h1>Hi, I'm Yemi! Highly motivated IT Professional 
   
  
   
