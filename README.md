@@ -2,9 +2,12 @@
   
  
   
-   ELASTIC SIEM LAB
+   
 
  - [Elastic Cloud in Kali Linux VM](https://github.com/Yemcyblife/Yemcyblife/blob/main/Elastic%20SIEM%20Lab.pdf)
+
+ - [Event Viewer Custom View in Windows](https://github.com/Yemcyblife/Yemcyblife/blob/main/Event%20Viewer%20Lab.pdf)
+   
 
  - [SQL SERVER CONFIGURATION](https://github.com/Yemcyblife/Yemcyblife/blob/main/SQL%20Server%20Configuration.pdf)
    
