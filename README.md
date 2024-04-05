@@ -10,6 +10,9 @@
    
 
  - [SQL SERVER CONFIGURATION](https://github.com/Yemcyblife/Yemcyblife/blob/main/SQL%20Server%20Configuration.pdf)
+
+ - [Device Manger Display](https://github.com/Yemcyblife/Yemcyblife/blob/main/Device%20Manager.pdf)
+   
    
   
 <h2>👨‍💻 Azure/ Cloud Projects
