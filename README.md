@@ -1,6 +1,6 @@
 <h1>Hi, I'm Yemi! Highly motivated IT Professional 
 
--[Google Sheets with Data Validation](https://github.com/Yemcyblife/Yemcyblife/blob/main/Yemi%20spreadsheet%20with%20data%20validation%20lab.pdf)
+ -[Google Sheets with Data Validation](https://github.com/Yemcyblife/Yemcyblife/blob/main/Yemi%20spreadsheet%20with%20data%20validation%20lab.pdf)
 
  - [Active Directory in Windows Server](https://github.com/Yemcyblife/Yemcyblife/blob/main/Active%20Directory%20Lab.pdf)
   
